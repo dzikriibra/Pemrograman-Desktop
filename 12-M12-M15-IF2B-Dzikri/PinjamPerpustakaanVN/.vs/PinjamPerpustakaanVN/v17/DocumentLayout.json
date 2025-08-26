@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\12-M12-M15-IF2B-Dzikri\\PinjamPerpustakaanVN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{078069D0-48F9-4DB1-93A3-3DCD7E9336A6}|PinjamPerpustakaanVN\\PinjamPerpustakaanVN.vbproj|C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\12-M12-M15-IF2B-Dzikri\\PinjamPerpustakaanVN\\pinjamperpustakaanvn\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{078069D0-48F9-4DB1-93A3-3DCD7E9336A6}|PinjamPerpustakaanVN\\PinjamPerpustakaanVN.vbproj|solutionrelative:pinjamperpustakaanvn\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{078069D0-48F9-4DB1-93A3-3DCD7E9336A6}|PinjamPerpustakaanVN\\PinjamPerpustakaanVN.vbproj|C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\12-M12-M15-IF2B-Dzikri\\PinjamPerpustakaanVN\\pinjamperpustakaanvn\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{078069D0-48F9-4DB1-93A3-3DCD7E9336A6}|PinjamPerpustakaanVN\\PinjamPerpustakaanVN.vbproj|solutionrelative:pinjamperpustakaanvn\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{078069D0-48F9-4DB1-93A3-3DCD7E9336A6}|PinjamPerpustakaanVN\\PinjamPerpustakaanVN.vbproj|c:\\users\\asus\\perkuliahan\\semester ii\\pemrograman desktop\\12-m12-m15-if2b-dzikri\\pinjamperpustakaanvn\\pinjamperpustakaanvn\\crcaripertanggal.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{078069D0-48F9-4DB1-93A3-3DCD7E9336A6}|PinjamPerpustakaanVN\\PinjamPerpustakaanVN.vbproj|solutionrelative:pinjamperpustakaanvn\\crcaripertanggal.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{078069D0-48F9-4DB1-93A3-3DCD7E9336A6}|PinjamPerpustakaanVN\\PinjamPerpustakaanVN.vbproj|c:\\users\\asus\\perkuliahan\\semester ii\\pemrograman desktop\\12-m12-m15-if2b-dzikri\\pinjamperpustakaanvn\\pinjamperpustakaanvn\\cranggotaperpus.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{078069D0-48F9-4DB1-93A3-3DCD7E9336A6}|PinjamPerpustakaanVN\\PinjamPerpustakaanVN.vbproj|solutionrelative:pinjamperpustakaanvn\\cranggotaperpus.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{078069D0-48F9-4DB1-93A3-3DCD7E9336A6}|PinjamPerpustakaanVN\\PinjamPerpustakaanVN.vbproj|c:\\users\\asus\\perkuliahan\\semester ii\\pemrograman desktop\\12-m12-m15-if2b-dzikri\\pinjamperpustakaanvn\\pinjamperpustakaanvn\\form5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{078069D0-48F9-4DB1-93A3-3DCD7E9336A6}|PinjamPerpustakaanVN\\PinjamPerpustakaanVN.vbproj|solutionrelative:pinjamperpustakaanvn\\form5.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{078069D0-48F9-4DB1-93A3-3DCD7E9336A6}|PinjamPerpustakaanVN\\PinjamPerpustakaanVN.vbproj|C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\12-M12-M15-IF2B-Dzikri\\PinjamPerpustakaanVN\\pinjamperpustakaanvn\\form6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{078069D0-48F9-4DB1-93A3-3DCD7E9336A6}|PinjamPerpustakaanVN\\PinjamPerpustakaanVN.vbproj|solutionrelative:pinjamperpustakaanvn\\form6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{078069D0-48F9-4DB1-93A3-3DCD7E9336A6}|PinjamPerpustakaanVN\\PinjamPerpustakaanVN.vbproj|C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\12-M12-M15-IF2B-Dzikri\\PinjamPerpustakaanVN\\pinjamperpustakaanvn\\form7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{078069D0-48F9-4DB1-93A3-3DCD7E9336A6}|PinjamPerpustakaanVN\\PinjamPerpustakaanVN.vbproj|solutionrelative:pinjamperpustakaanvn\\form7.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{078069D0-48F9-4DB1-93A3-3DCD7E9336A6}|PinjamPerpustakaanVN\\PinjamPerpustakaanVN.vbproj|C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\12-M12-M15-IF2B-Dzikri\\PinjamPerpustakaanVN\\pinjamperpustakaanvn\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{078069D0-48F9-4DB1-93A3-3DCD7E9336A6}|PinjamPerpustakaanVN\\PinjamPerpustakaanVN.vbproj|solutionrelative:pinjamperpustakaanvn\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{078069D0-48F9-4DB1-93A3-3DCD7E9336A6}|PinjamPerpustakaanVN\\PinjamPerpustakaanVN.vbproj|C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\12-M12-M15-IF2B-Dzikri\\PinjamPerpustakaanVN\\pinjamperpustakaanvn\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{078069D0-48F9-4DB1-93A3-3DCD7E9336A6}|PinjamPerpustakaanVN\\PinjamPerpustakaanVN.vbproj|solutionrelative:pinjamperpustakaanvn\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{078069D0-48F9-4DB1-93A3-3DCD7E9336A6}|PinjamPerpustakaanVN\\PinjamPerpustakaanVN.vbproj|C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\12-M12-M15-IF2B-Dzikri\\PinjamPerpustakaanVN\\pinjamperpustakaanvn\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{078069D0-48F9-4DB1-93A3-3DCD7E9336A6}|PinjamPerpustakaanVN\\PinjamPerpustakaanVN.vbproj|solutionrelative:pinjamperpustakaanvn\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{078069D0-48F9-4DB1-93A3-3DCD7E9336A6}|PinjamPerpustakaanVN\\PinjamPerpustakaanVN.vbproj|C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\12-M12-M15-IF2B-Dzikri\\PinjamPerpustakaanVN\\pinjamperpustakaanvn\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{078069D0-48F9-4DB1-93A3-3DCD7E9336A6}|PinjamPerpustakaanVN\\PinjamPerpustakaanVN.vbproj|solutionrelative:pinjamperpustakaanvn\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{078069D0-48F9-4DB1-93A3-3DCD7E9336A6}|PinjamPerpustakaanVN\\PinjamPerpustakaanVN.vbproj|C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\12-M12-M15-IF2B-Dzikri\\PinjamPerpustakaanVN\\pinjamperpustakaanvn\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{078069D0-48F9-4DB1-93A3-3DCD7E9336A6}|PinjamPerpustakaanVN\\PinjamPerpustakaanVN.vbproj|solutionrelative:pinjamperpustakaanvn\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{078069D0-48F9-4DB1-93A3-3DCD7E9336A6}|PinjamPerpustakaanVN\\PinjamPerpustakaanVN.vbproj|C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\12-M12-M15-IF2B-Dzikri\\PinjamPerpustakaanVN\\pinjamperpustakaanvn\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{078069D0-48F9-4DB1-93A3-3DCD7E9336A6}|PinjamPerpustakaanVN\\PinjamPerpustakaanVN.vbproj|solutionrelative:pinjamperpustakaanvn\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{078069D0-48F9-4DB1-93A3-3DCD7E9336A6}|PinjamPerpustakaanVN\\PinjamPerpustakaanVN.vbproj|C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\12-M12-M15-IF2B-Dzikri\\PinjamPerpustakaanVN\\pinjamperpustakaanvn\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{078069D0-48F9-4DB1-93A3-3DCD7E9336A6}|PinjamPerpustakaanVN\\PinjamPerpustakaanVN.vbproj|solutionrelative:pinjamperpustakaanvn\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Application.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\12-M12-M15-IF2B-Dzikri\\PinjamPerpustakaanVN\\PinjamPerpustakaanVN\\My Project\\Application.Designer.vb",
+              "RelativeDocumentMoniker": "PinjamPerpustakaanVN\\My Project\\Application.Designer.vb",
+              "ToolTip": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\12-M12-M15-IF2B-Dzikri\\PinjamPerpustakaanVN\\PinjamPerpustakaanVN\\My Project\\Application.Designer.vb",
+              "RelativeToolTip": "PinjamPerpustakaanVN\\My Project\\Application.Designer.vb",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-05T14:07:00.347Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CrCariPerTanggal.rpt",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\12-M12-M15-IF2B-Dzikri\\PinjamPerpustakaanVN\\PinjamPerpustakaanVN\\CrCariPerTanggal.rpt",
+              "RelativeDocumentMoniker": "PinjamPerpustakaanVN\\CrCariPerTanggal.rpt",
+              "ToolTip": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\12-M12-M15-IF2B-Dzikri\\PinjamPerpustakaanVN\\PinjamPerpustakaanVN\\CrCariPerTanggal.rpt",
+              "RelativeToolTip": "PinjamPerpustakaanVN\\CrCariPerTanggal.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPESURBVDhPrZRLaFxVHMZ/59w7k8lkJpmZTDJ5m1pJ2iY0JoWA0aKFUK1dtF2I2ampoggiSHAjaHFVRBA3FXSjuJFaqDbFCl1Z00JNMkmahGIe5lHznplM7rxn7sNFHp1JuvQPH/f\u002Bz\u002BX73fP4OPB/lmVZIr9v6XjhzKs9736WP/akWpieHLz63eUP9o8DqPmNq9TjP9r6bGfbYT\u002BKIhEU/A\u002BAfzdijHgrqvVcNn37\u002BvdfxrYia/nflfymrrGp7flTr1w42VaL112Mx1WEz\u002B3Am6dYMkvWspWdfK6zfT0ciW6GNlaSCW1zlyHzgQACkEKQSOXYjKWJ7FMyo\u002BN22jlxrK645\u002BJHl9u7ul9zl/kCu/4DwL0SIJ4kYD2a5MbALFoyy9me9z7tPv9G367tAHB31xQhUOS2sjLN71Y/q2KJ\u002BoCbrpYaOo9W0dVaw6G68uKSkmLHrr8AKIRASoFg\u002BymlJC5jPLDGuBm/zg9b3zIpBgn4SqjakcthQ5GPMfuAIHemKIQgYoSYNv5mSjzkYXKCX\u002BPX\u002BCX\u002BMxO5UeTO7IUoTIJUnJUOxVlZqjgrPcJe5jQtiWFapK0EwXSQgdQAhpKlyCzCMAxua7e4Ev6KSC6EJYwDQLX63NWXwGwD/KLS0Ta9YhGJ5ehP3GQmM4OOQTQVJbapoRs6mBAMD/H\u002BSi9fH7\u002BCoLgQ\u002BM2Hx52ZXM4T1nLVsysZ7\u002Bh8lks/hVA9TYQDc0QDQSyXiTQU0mMZMktpGqob6Xv9YyodFUREvAAo9djClBlf/LPOHbvTeVidaWlwsBzOMjvl59FYK\u002BH5p0mqcaQuMZZ02tUOLh57mxcrTuGyuQ4sWYnqZRvB0cl5IVhorPVWHGkoOe2wq8yuGYRXKxBZP3ZviOTWMk\u002Bl63mzs5e3unsRYvtAVsNxgsPDg2N/3bkFoMxO3GV24p6ZzNkSamnVM7XV5RdOd/hY2zLZ0EySIS/WP0ewe4J8/vInnGs7jyrlXrzWIilGgkODI/e3gXuxGb//G\u002BN3b2C3qZQU22muKaLBb8PpUPAWldN36BJNzlYsQMidiElQ5OOoFQDTCY1UYgshBaYliabAEJIyl4q3xI7fFkA17ZimubfcfB0AAugGbCZgcCbNUsRCURTq/ZLmgE5US7IcirO0EWNxXdtTKqsj84AF96GQiqZb9rnxxXSlXcXRWCFwq3rSXxQLLS5HE\u002BFNLYuRMjIpzcr3hdaXF3bfC4A1PsfI2RO\u002BLzI5/Z14It28Fc\u002BytBYfnZze\u002BHFqbm0opxuPHtzr14b/uJbL9\u002BXXf8LCnE6KaQGDAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-06-22T14:05:46.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CrAnggotaPerpus.rpt",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\12-M12-M15-IF2B-Dzikri\\PinjamPerpustakaanVN\\PinjamPerpustakaanVN\\CrAnggotaPerpus.rpt",
+              "RelativeDocumentMoniker": "PinjamPerpustakaanVN\\CrAnggotaPerpus.rpt",
+              "ToolTip": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\12-M12-M15-IF2B-Dzikri\\PinjamPerpustakaanVN\\PinjamPerpustakaanVN\\CrAnggotaPerpus.rpt",
+              "RelativeToolTip": "PinjamPerpustakaanVN\\CrAnggotaPerpus.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPESURBVDhPrZRLaFxVHMZ/59w7k8lkJpmZTDJ5m1pJ2iY0JoWA0aKFUK1dtF2I2ampoggiSHAjaHFVRBA3FXSjuJFaqDbFCl1Z00JNMkmahGIe5lHznplM7rxn7sNFHp1JuvQPH/f\u002Bz\u002BX73fP4OPB/lmVZIr9v6XjhzKs9736WP/akWpieHLz63eUP9o8DqPmNq9TjP9r6bGfbYT\u002BKIhEU/A\u002BAfzdijHgrqvVcNn37\u002BvdfxrYia/nflfymrrGp7flTr1w42VaL112Mx1WEz\u002B3Am6dYMkvWspWdfK6zfT0ciW6GNlaSCW1zlyHzgQACkEKQSOXYjKWJ7FMyo\u002BN22jlxrK645\u002BJHl9u7ul9zl/kCu/4DwL0SIJ4kYD2a5MbALFoyy9me9z7tPv9G367tAHB31xQhUOS2sjLN71Y/q2KJ\u002BoCbrpYaOo9W0dVaw6G68uKSkmLHrr8AKIRASoFg\u002BymlJC5jPLDGuBm/zg9b3zIpBgn4SqjakcthQ5GPMfuAIHemKIQgYoSYNv5mSjzkYXKCX\u002BPX\u002BCX\u002BMxO5UeTO7IUoTIJUnJUOxVlZqjgrPcJe5jQtiWFapK0EwXSQgdQAhpKlyCzCMAxua7e4Ev6KSC6EJYwDQLX63NWXwGwD/KLS0Ta9YhGJ5ehP3GQmM4OOQTQVJbapoRs6mBAMD/H\u002BSi9fH7\u002BCoLgQ\u002BM2Hx52ZXM4T1nLVsysZ7\u002Bh8lks/hVA9TYQDc0QDQSyXiTQU0mMZMktpGqob6Xv9YyodFUREvAAo9djClBlf/LPOHbvTeVidaWlwsBzOMjvl59FYK\u002BH5p0mqcaQuMZZ02tUOLh57mxcrTuGyuQ4sWYnqZRvB0cl5IVhorPVWHGkoOe2wq8yuGYRXKxBZP3ZviOTWMk\u002Bl63mzs5e3unsRYvtAVsNxgsPDg2N/3bkFoMxO3GV24p6ZzNkSamnVM7XV5RdOd/hY2zLZ0EySIS/WP0ewe4J8/vInnGs7jyrlXrzWIilGgkODI/e3gXuxGb//G\u002BN3b2C3qZQU22muKaLBb8PpUPAWldN36BJNzlYsQMidiElQ5OOoFQDTCY1UYgshBaYliabAEJIyl4q3xI7fFkA17ZimubfcfB0AAugGbCZgcCbNUsRCURTq/ZLmgE5US7IcirO0EWNxXdtTKqsj84AF96GQiqZb9rnxxXSlXcXRWCFwq3rSXxQLLS5HE\u002BFNLYuRMjIpzcr3hdaXF3bfC4A1PsfI2RO\u002BLzI5/Z14It28Fc\u002BytBYfnZze\u002BHFqbm0opxuPHtzr14b/uJbL9\u002BXXf8LCnE6KaQGDAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-06-22T14:05:36.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form5.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\12-M12-M15-IF2B-Dzikri\\PinjamPerpustakaanVN\\PinjamPerpustakaanVN\\Form5.vb",
+              "RelativeDocumentMoniker": "PinjamPerpustakaanVN\\Form5.vb",
+              "ToolTip": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\12-M12-M15-IF2B-Dzikri\\PinjamPerpustakaanVN\\PinjamPerpustakaanVN\\Form5.vb [Design]",
+              "RelativeToolTip": "PinjamPerpustakaanVN\\Form5.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-22T03:06:02.608Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form3.vb",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\12-M12-M15-IF2B-Dzikri\\PinjamPerpustakaanVN\\PinjamPerpustakaanVN\\Form3.vb",
+              "RelativeDocumentMoniker": "PinjamPerpustakaanVN\\Form3.vb",
+              "ToolTip": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\12-M12-M15-IF2B-Dzikri\\PinjamPerpustakaanVN\\PinjamPerpustakaanVN\\Form3.vb",
+              "RelativeToolTip": "PinjamPerpustakaanVN\\Form3.vb",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAwHsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-20T14:07:18.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\12-M12-M15-IF2B-Dzikri\\PinjamPerpustakaanVN\\PinjamPerpustakaanVN\\Form1.vb",
+              "RelativeDocumentMoniker": "PinjamPerpustakaanVN\\Form1.vb",
+              "ToolTip": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\12-M12-M15-IF2B-Dzikri\\PinjamPerpustakaanVN\\PinjamPerpustakaanVN\\Form1.vb [Design]",
+              "RelativeToolTip": "PinjamPerpustakaanVN\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-18T06:28:53.317Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\12-M12-M15-IF2B-Dzikri\\PinjamPerpustakaanVN\\PinjamPerpustakaanVN\\Form1.vb",
+              "RelativeDocumentMoniker": "PinjamPerpustakaanVN\\Form1.vb",
+              "ToolTip": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\12-M12-M15-IF2B-Dzikri\\PinjamPerpustakaanVN\\PinjamPerpustakaanVN\\Form1.vb",
+              "RelativeToolTip": "PinjamPerpustakaanVN\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-20T13:52:18.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form7.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\12-M12-M15-IF2B-Dzikri\\PinjamPerpustakaanVN\\PinjamPerpustakaanVN\\Form7.vb",
+              "RelativeDocumentMoniker": "PinjamPerpustakaanVN\\Form7.vb",
+              "ToolTip": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\12-M12-M15-IF2B-Dzikri\\PinjamPerpustakaanVN\\PinjamPerpustakaanVN\\Form7.vb [Design]",
+              "RelativeToolTip": "PinjamPerpustakaanVN\\Form7.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-22T03:05:59.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form6.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\12-M12-M15-IF2B-Dzikri\\PinjamPerpustakaanVN\\PinjamPerpustakaanVN\\Form6.vb",
+              "RelativeDocumentMoniker": "PinjamPerpustakaanVN\\Form6.vb",
+              "ToolTip": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\12-M12-M15-IF2B-Dzikri\\PinjamPerpustakaanVN\\PinjamPerpustakaanVN\\Form6.vb [Design]",
+              "RelativeToolTip": "PinjamPerpustakaanVN\\Form6.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-22T03:06:00.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form3.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\12-M12-M15-IF2B-Dzikri\\PinjamPerpustakaanVN\\PinjamPerpustakaanVN\\Form3.vb",
+              "RelativeDocumentMoniker": "PinjamPerpustakaanVN\\Form3.vb",
+              "ToolTip": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\12-M12-M15-IF2B-Dzikri\\PinjamPerpustakaanVN\\PinjamPerpustakaanVN\\Form3.vb [Design]",
+              "RelativeToolTip": "PinjamPerpustakaanVN\\Form3.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-20T14:07:11.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form2.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\12-M12-M15-IF2B-Dzikri\\PinjamPerpustakaanVN\\PinjamPerpustakaanVN\\Form2.vb",
+              "RelativeDocumentMoniker": "PinjamPerpustakaanVN\\Form2.vb",
+              "ToolTip": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\12-M12-M15-IF2B-Dzikri\\PinjamPerpustakaanVN\\PinjamPerpustakaanVN\\Form2.vb [Design]",
+              "RelativeToolTip": "PinjamPerpustakaanVN\\Form2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-20T13:44:54.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form2.vb",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\12-M12-M15-IF2B-Dzikri\\PinjamPerpustakaanVN\\PinjamPerpustakaanVN\\Form2.vb",
+              "RelativeDocumentMoniker": "PinjamPerpustakaanVN\\Form2.vb",
+              "ToolTip": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\12-M12-M15-IF2B-Dzikri\\PinjamPerpustakaanVN\\PinjamPerpustakaanVN\\Form2.vb",
+              "RelativeToolTip": "PinjamPerpustakaanVN\\Form2.vb",
+              "ViewState": "AgIAABkAAAAAAAAAAAAuwCAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-20T13:44:58.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\12-M12-M15-IF2B-Dzikri\\PinjamPerpustakaanVN\\PinjamPerpustakaanVN\\Module1.vb",
+              "RelativeDocumentMoniker": "PinjamPerpustakaanVN\\Module1.vb",
+              "ToolTip": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\12-M12-M15-IF2B-Dzikri\\PinjamPerpustakaanVN\\PinjamPerpustakaanVN\\Module1.vb",
+              "RelativeToolTip": "PinjamPerpustakaanVN\\Module1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-20T13:46:41.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form4.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\12-M12-M15-IF2B-Dzikri\\PinjamPerpustakaanVN\\PinjamPerpustakaanVN\\Form4.vb",
+              "RelativeDocumentMoniker": "PinjamPerpustakaanVN\\Form4.vb",
+              "ToolTip": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\12-M12-M15-IF2B-Dzikri\\PinjamPerpustakaanVN\\PinjamPerpustakaanVN\\Form4.vb [Design]",
+              "RelativeToolTip": "PinjamPerpustakaanVN\\Form4.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-20T02:24:56.703Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

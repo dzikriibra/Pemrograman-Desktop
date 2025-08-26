@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\Praktek Minggu 7 - Quis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{083EF0B0-CDB3-4307-A163-57BCBA6E8CE2}|dzikriwahhab\\dzikriwahhab.vbproj|c:\\users\\asus\\perkuliahan\\semester ii\\pemrograman desktop\\praktek minggu 7 - quis\\dzikriwahhab\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{083EF0B0-CDB3-4307-A163-57BCBA6E8CE2}|dzikriwahhab\\dzikriwahhab.vbproj|solutionrelative:dzikriwahhab\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083EF0B0-CDB3-4307-A163-57BCBA6E8CE2}|dzikriwahhab\\dzikriwahhab.vbproj|c:\\users\\asus\\perkuliahan\\semester ii\\pemrograman desktop\\praktek minggu 7 - quis\\dzikriwahhab\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{083EF0B0-CDB3-4307-A163-57BCBA6E8CE2}|dzikriwahhab\\dzikriwahhab.vbproj|solutionrelative:dzikriwahhab\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083EF0B0-CDB3-4307-A163-57BCBA6E8CE2}|dzikriwahhab\\dzikriwahhab.vbproj|c:\\users\\asus\\perkuliahan\\semester ii\\pemrograman desktop\\praktek minggu 7 - quis\\dzikriwahhab\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{083EF0B0-CDB3-4307-A163-57BCBA6E8CE2}|dzikriwahhab\\dzikriwahhab.vbproj|solutionrelative:dzikriwahhab\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083EF0B0-CDB3-4307-A163-57BCBA6E8CE2}|dzikriwahhab\\dzikriwahhab.vbproj|c:\\users\\asus\\perkuliahan\\semester ii\\pemrograman desktop\\praktek minggu 7 - quis\\dzikriwahhab\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{083EF0B0-CDB3-4307-A163-57BCBA6E8CE2}|dzikriwahhab\\dzikriwahhab.vbproj|solutionrelative:dzikriwahhab\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083EF0B0-CDB3-4307-A163-57BCBA6E8CE2}|dzikriwahhab\\dzikriwahhab.vbproj|c:\\users\\asus\\perkuliahan\\semester ii\\pemrograman desktop\\praktek minggu 7 - quis\\dzikriwahhab\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{083EF0B0-CDB3-4307-A163-57BCBA6E8CE2}|dzikriwahhab\\dzikriwahhab.vbproj|solutionrelative:dzikriwahhab\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Application.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\Praktek Minggu 7 - Quis\\dzikriwahhab\\My Project\\Application.Designer.vb",
+              "RelativeDocumentMoniker": "dzikriwahhab\\My Project\\Application.Designer.vb",
+              "ToolTip": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\Praktek Minggu 7 - Quis\\dzikriwahhab\\My Project\\Application.Designer.vb",
+              "RelativeToolTip": "dzikriwahhab\\My Project\\Application.Designer.vb",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-16T10:27:32.042Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.vb",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\Praktek Minggu 7 - Quis\\dzikriwahhab\\Form2.vb",
+              "RelativeDocumentMoniker": "dzikriwahhab\\Form2.vb",
+              "ToolTip": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\Praktek Minggu 7 - Quis\\dzikriwahhab\\Form2.vb",
+              "RelativeToolTip": "dzikriwahhab\\Form2.vb",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAwC4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-16T10:20:04.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\Praktek Minggu 7 - Quis\\dzikriwahhab\\Form2.vb",
+              "RelativeDocumentMoniker": "dzikriwahhab\\Form2.vb",
+              "ToolTip": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\Praktek Minggu 7 - Quis\\dzikriwahhab\\Form2.vb [Design]",
+              "RelativeToolTip": "dzikriwahhab\\Form2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-16T10:16:40.477Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\Praktek Minggu 7 - Quis\\dzikriwahhab\\Form1.vb",
+              "RelativeDocumentMoniker": "dzikriwahhab\\Form1.vb",
+              "ToolTip": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\Praktek Minggu 7 - Quis\\dzikriwahhab\\Form1.vb",
+              "RelativeToolTip": "dzikriwahhab\\Form1.vb",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAzwBEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-16T09:38:57.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\Praktek Minggu 7 - Quis\\dzikriwahhab\\Form1.vb",
+              "RelativeDocumentMoniker": "dzikriwahhab\\Form1.vb",
+              "ToolTip": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\Praktek Minggu 7 - Quis\\dzikriwahhab\\Form1.vb [Design]",
+              "RelativeToolTip": "dzikriwahhab\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-16T09:05:37.26Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

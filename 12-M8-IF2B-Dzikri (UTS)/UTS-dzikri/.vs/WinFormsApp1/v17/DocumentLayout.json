@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\12-IF2B-UTS-Dzikri Ibrahim Wahhab\\WinFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C3E4A1-5350-434A-8051-23D25BAF91B0}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\users\\asus\\perkuliahan\\semester ii\\pemrograman desktop\\12-if2b-uts-dzikri ibrahim wahhab\\winformsapp1\\winformsapp1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B3C3E4A1-5350-434A-8051-23D25BAF91B0}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C3E4A1-5350-434A-8051-23D25BAF91B0}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\users\\asus\\perkuliahan\\semester ii\\pemrograman desktop\\12-if2b-uts-dzikri ibrahim wahhab\\winformsapp1\\winformsapp1\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B3C3E4A1-5350-434A-8051-23D25BAF91B0}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C3E4A1-5350-434A-8051-23D25BAF91B0}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\users\\asus\\perkuliahan\\semester ii\\pemrograman desktop\\12-if2b-uts-dzikri ibrahim wahhab\\winformsapp1\\winformsapp1\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B3C3E4A1-5350-434A-8051-23D25BAF91B0}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C3E4A1-5350-434A-8051-23D25BAF91B0}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\users\\asus\\perkuliahan\\semester ii\\pemrograman desktop\\12-if2b-uts-dzikri ibrahim wahhab\\winformsapp1\\winformsapp1\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B3C3E4A1-5350-434A-8051-23D25BAF91B0}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C3E4A1-5350-434A-8051-23D25BAF91B0}|WinFormsApp1\\WinFormsApp1.vbproj|c:\\users\\asus\\perkuliahan\\semester ii\\pemrograman desktop\\12-if2b-uts-dzikri ibrahim wahhab\\winformsapp1\\winformsapp1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B3C3E4A1-5350-434A-8051-23D25BAF91B0}|WinFormsApp1\\WinFormsApp1.vbproj|solutionrelative:winformsapp1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Application.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\12-IF2B-UTS-Dzikri Ibrahim Wahhab\\WinFormsApp1\\WinFormsApp1\\My Project\\Application.Designer.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\My Project\\Application.Designer.vb",
+              "ToolTip": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\12-IF2B-UTS-Dzikri Ibrahim Wahhab\\WinFormsApp1\\WinFormsApp1\\My Project\\Application.Designer.vb",
+              "RelativeToolTip": "WinFormsApp1\\My Project\\Application.Designer.vb",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-23T10:18:32.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\12-IF2B-UTS-Dzikri Ibrahim Wahhab\\WinFormsApp1\\WinFormsApp1\\Form2.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form2.vb",
+              "ToolTip": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\12-IF2B-UTS-Dzikri Ibrahim Wahhab\\WinFormsApp1\\WinFormsApp1\\Form2.vb [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Form2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-23T09:33:36.641Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.vb",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\12-IF2B-UTS-Dzikri Ibrahim Wahhab\\WinFormsApp1\\WinFormsApp1\\Form2.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form2.vb",
+              "ToolTip": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\12-IF2B-UTS-Dzikri Ibrahim Wahhab\\WinFormsApp1\\WinFormsApp1\\Form2.vb",
+              "RelativeToolTip": "WinFormsApp1\\Form2.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-23T09:41:45.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\12-IF2B-UTS-Dzikri Ibrahim Wahhab\\WinFormsApp1\\WinFormsApp1\\Form1.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.vb",
+              "ToolTip": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\12-IF2B-UTS-Dzikri Ibrahim Wahhab\\WinFormsApp1\\WinFormsApp1\\Form1.vb",
+              "RelativeToolTip": "WinFormsApp1\\Form1.vb",
+              "ViewState": "AgIAABMAAAAAAAAAAAArwCMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-23T08:43:37.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\12-IF2B-UTS-Dzikri Ibrahim Wahhab\\WinFormsApp1\\WinFormsApp1\\Form1.vb",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.vb",
+              "ToolTip": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\12-IF2B-UTS-Dzikri Ibrahim Wahhab\\WinFormsApp1\\WinFormsApp1\\Form1.vb [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-23T08:34:33.076Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

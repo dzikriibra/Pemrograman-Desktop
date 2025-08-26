@@ -1,0 +1,16 @@
+C:\Users\ASUS\.vscode\12-IF1B-DzikriIbrahimWahhab\M1-Dzikri\M1-Dzikri\bin\Debug\net8.0-windows\M1-Dzikri.exe
+C:\Users\ASUS\.vscode\12-IF1B-DzikriIbrahimWahhab\M1-Dzikri\M1-Dzikri\bin\Debug\net8.0-windows\M1-Dzikri.deps.json
+C:\Users\ASUS\.vscode\12-IF1B-DzikriIbrahimWahhab\M1-Dzikri\M1-Dzikri\bin\Debug\net8.0-windows\M1-Dzikri.runtimeconfig.json
+C:\Users\ASUS\.vscode\12-IF1B-DzikriIbrahimWahhab\M1-Dzikri\M1-Dzikri\bin\Debug\net8.0-windows\M1-Dzikri.dll
+C:\Users\ASUS\.vscode\12-IF1B-DzikriIbrahimWahhab\M1-Dzikri\M1-Dzikri\bin\Debug\net8.0-windows\M1-Dzikri.pdb
+C:\Users\ASUS\.vscode\12-IF1B-DzikriIbrahimWahhab\M1-Dzikri\M1-Dzikri\obj\Debug\net8.0-windows\M1_Dzikri.Form1.resources
+C:\Users\ASUS\.vscode\12-IF1B-DzikriIbrahimWahhab\M1-Dzikri\M1-Dzikri\obj\Debug\net8.0-windows\M1-Dzikri.vbproj.GenerateResource.cache
+C:\Users\ASUS\.vscode\12-IF1B-DzikriIbrahimWahhab\M1-Dzikri\M1-Dzikri\obj\Debug\net8.0-windows\M1-Dzikri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\.vscode\12-IF1B-DzikriIbrahimWahhab\M1-Dzikri\M1-Dzikri\obj\Debug\net8.0-windows\M1-Dzikri.AssemblyInfoInputs.cache
+C:\Users\ASUS\.vscode\12-IF1B-DzikriIbrahimWahhab\M1-Dzikri\M1-Dzikri\obj\Debug\net8.0-windows\M1-Dzikri.AssemblyInfo.vb
+C:\Users\ASUS\.vscode\12-IF1B-DzikriIbrahimWahhab\M1-Dzikri\M1-Dzikri\obj\Debug\net8.0-windows\M1-Dzikri.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\.vscode\12-IF1B-DzikriIbrahimWahhab\M1-Dzikri\M1-Dzikri\obj\Debug\net8.0-windows\M1-Dzikri.dll
+C:\Users\ASUS\.vscode\12-IF1B-DzikriIbrahimWahhab\M1-Dzikri\M1-Dzikri\obj\Debug\net8.0-windows\refint\M1-Dzikri.dll
+C:\Users\ASUS\.vscode\12-IF1B-DzikriIbrahimWahhab\M1-Dzikri\M1-Dzikri\obj\Debug\net8.0-windows\M1-Dzikri.pdb
+C:\Users\ASUS\.vscode\12-IF1B-DzikriIbrahimWahhab\M1-Dzikri\M1-Dzikri\obj\Debug\net8.0-windows\M1-Dzikri.genruntimeconfig.cache
+C:\Users\ASUS\.vscode\12-IF1B-DzikriIbrahimWahhab\M1-Dzikri\M1-Dzikri\obj\Debug\net8.0-windows\ref\M1-Dzikri.dll

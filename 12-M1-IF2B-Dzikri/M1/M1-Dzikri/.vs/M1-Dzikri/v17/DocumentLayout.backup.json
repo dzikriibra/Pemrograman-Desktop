@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\.vscode\\12-IF1B-DzikriIbrahimWahhab\\M1-Dzikri\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F30B569F-D49A-48EB-9EA5-EB22D4D3F0DF}|M1-Dzikri\\M1-Dzikri.vbproj|c:\\users\\asus\\.vscode\\12-if1b-dzikriibrahimwahhab\\m1-dzikri\\m1-dzikri\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F30B569F-D49A-48EB-9EA5-EB22D4D3F0DF}|M1-Dzikri\\M1-Dzikri.vbproj|solutionrelative:m1-dzikri\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F30B569F-D49A-48EB-9EA5-EB22D4D3F0DF}|M1-Dzikri\\M1-Dzikri.vbproj|c:\\users\\asus\\.vscode\\12-if1b-dzikriibrahimwahhab\\m1-dzikri\\m1-dzikri\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F30B569F-D49A-48EB-9EA5-EB22D4D3F0DF}|M1-Dzikri\\M1-Dzikri.vbproj|solutionrelative:m1-dzikri\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\ASUS\\.vscode\\12-IF1B-DzikriIbrahimWahhab\\M1-Dzikri\\M1-Dzikri\\Form1.vb",
+              "RelativeDocumentMoniker": "M1-Dzikri\\Form1.vb",
+              "ToolTip": "C:\\Users\\ASUS\\.vscode\\12-IF1B-DzikriIbrahimWahhab\\M1-Dzikri\\M1-Dzikri\\Form1.vb",
+              "RelativeToolTip": "M1-Dzikri\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-26T13:47:33.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\.vscode\\12-IF1B-DzikriIbrahimWahhab\\M1-Dzikri\\M1-Dzikri\\Form1.vb",
+              "RelativeDocumentMoniker": "M1-Dzikri\\Form1.vb",
+              "ToolTip": "C:\\Users\\ASUS\\.vscode\\12-IF1B-DzikriIbrahimWahhab\\M1-Dzikri\\M1-Dzikri\\Form1.vb [Design]",
+              "RelativeToolTip": "M1-Dzikri\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-02-26T13:29:17.662Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+C:\Users\ASUS\Perkuliahan\Semester II\Pemrograman Desktop\Project\jikriproyek\jikriproyek\bin\Debug\net8.0-windows\jikriproyek.exe
+C:\Users\ASUS\Perkuliahan\Semester II\Pemrograman Desktop\Project\jikriproyek\jikriproyek\bin\Debug\net8.0-windows\jikriproyek.deps.json
+C:\Users\ASUS\Perkuliahan\Semester II\Pemrograman Desktop\Project\jikriproyek\jikriproyek\bin\Debug\net8.0-windows\jikriproyek.runtimeconfig.json
+C:\Users\ASUS\Perkuliahan\Semester II\Pemrograman Desktop\Project\jikriproyek\jikriproyek\bin\Debug\net8.0-windows\jikriproyek.dll
+C:\Users\ASUS\Perkuliahan\Semester II\Pemrograman Desktop\Project\jikriproyek\jikriproyek\bin\Debug\net8.0-windows\jikriproyek.pdb
+C:\Users\ASUS\Perkuliahan\Semester II\Pemrograman Desktop\Project\jikriproyek\jikriproyek\obj\Debug\net8.0-windows\jikriproyek.Form1.resources
+C:\Users\ASUS\Perkuliahan\Semester II\Pemrograman Desktop\Project\jikriproyek\jikriproyek\obj\Debug\net8.0-windows\jikriproyek.vbproj.GenerateResource.cache
+C:\Users\ASUS\Perkuliahan\Semester II\Pemrograman Desktop\Project\jikriproyek\jikriproyek\obj\Debug\net8.0-windows\jikriproyek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Perkuliahan\Semester II\Pemrograman Desktop\Project\jikriproyek\jikriproyek\obj\Debug\net8.0-windows\jikriproyek.AssemblyInfoInputs.cache
+C:\Users\ASUS\Perkuliahan\Semester II\Pemrograman Desktop\Project\jikriproyek\jikriproyek\obj\Debug\net8.0-windows\jikriproyek.AssemblyInfo.vb
+C:\Users\ASUS\Perkuliahan\Semester II\Pemrograman Desktop\Project\jikriproyek\jikriproyek\obj\Debug\net8.0-windows\jikriproyek.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\Perkuliahan\Semester II\Pemrograman Desktop\Project\jikriproyek\jikriproyek\obj\Debug\net8.0-windows\jikriproyek.dll
+C:\Users\ASUS\Perkuliahan\Semester II\Pemrograman Desktop\Project\jikriproyek\jikriproyek\obj\Debug\net8.0-windows\refint\jikriproyek.dll
+C:\Users\ASUS\Perkuliahan\Semester II\Pemrograman Desktop\Project\jikriproyek\jikriproyek\obj\Debug\net8.0-windows\jikriproyek.pdb
+C:\Users\ASUS\Perkuliahan\Semester II\Pemrograman Desktop\Project\jikriproyek\jikriproyek\obj\Debug\net8.0-windows\jikriproyek.genruntimeconfig.cache
+C:\Users\ASUS\Perkuliahan\Semester II\Pemrograman Desktop\Project\jikriproyek\jikriproyek\obj\Debug\net8.0-windows\ref\jikriproyek.dll

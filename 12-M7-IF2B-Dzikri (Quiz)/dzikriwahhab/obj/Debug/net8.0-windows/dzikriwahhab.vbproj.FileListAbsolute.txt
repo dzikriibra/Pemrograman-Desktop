@@ -1,0 +1,34 @@
+C:\Users\ASUS\Perkuliahan\Semester II\Pemrograman Desktop\dzikriwahhab\dzikriwahhab\bin\Debug\net8.0-windows\dzikriwahhab.exe
+C:\Users\ASUS\Perkuliahan\Semester II\Pemrograman Desktop\dzikriwahhab\dzikriwahhab\bin\Debug\net8.0-windows\dzikriwahhab.deps.json
+C:\Users\ASUS\Perkuliahan\Semester II\Pemrograman Desktop\dzikriwahhab\dzikriwahhab\bin\Debug\net8.0-windows\dzikriwahhab.runtimeconfig.json
+C:\Users\ASUS\Perkuliahan\Semester II\Pemrograman Desktop\dzikriwahhab\dzikriwahhab\bin\Debug\net8.0-windows\dzikriwahhab.dll
+C:\Users\ASUS\Perkuliahan\Semester II\Pemrograman Desktop\dzikriwahhab\dzikriwahhab\bin\Debug\net8.0-windows\dzikriwahhab.pdb
+C:\Users\ASUS\Perkuliahan\Semester II\Pemrograman Desktop\dzikriwahhab\dzikriwahhab\obj\Debug\net8.0-windows\dzikriwahhab.Form1.resources
+C:\Users\ASUS\Perkuliahan\Semester II\Pemrograman Desktop\dzikriwahhab\dzikriwahhab\obj\Debug\net8.0-windows\dzikriwahhab.vbproj.GenerateResource.cache
+C:\Users\ASUS\Perkuliahan\Semester II\Pemrograman Desktop\dzikriwahhab\dzikriwahhab\obj\Debug\net8.0-windows\dzikriwahhab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Perkuliahan\Semester II\Pemrograman Desktop\dzikriwahhab\dzikriwahhab\obj\Debug\net8.0-windows\dzikriwahhab.AssemblyInfoInputs.cache
+C:\Users\ASUS\Perkuliahan\Semester II\Pemrograman Desktop\dzikriwahhab\dzikriwahhab\obj\Debug\net8.0-windows\dzikriwahhab.AssemblyInfo.vb
+C:\Users\ASUS\Perkuliahan\Semester II\Pemrograman Desktop\dzikriwahhab\dzikriwahhab\obj\Debug\net8.0-windows\dzikriwahhab.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\Perkuliahan\Semester II\Pemrograman Desktop\dzikriwahhab\dzikriwahhab\obj\Debug\net8.0-windows\dzikriwahhab.dll
+C:\Users\ASUS\Perkuliahan\Semester II\Pemrograman Desktop\dzikriwahhab\dzikriwahhab\obj\Debug\net8.0-windows\refint\dzikriwahhab.dll
+C:\Users\ASUS\Perkuliahan\Semester II\Pemrograman Desktop\dzikriwahhab\dzikriwahhab\obj\Debug\net8.0-windows\dzikriwahhab.pdb
+C:\Users\ASUS\Perkuliahan\Semester II\Pemrograman Desktop\dzikriwahhab\dzikriwahhab\obj\Debug\net8.0-windows\dzikriwahhab.genruntimeconfig.cache
+C:\Users\ASUS\Perkuliahan\Semester II\Pemrograman Desktop\dzikriwahhab\dzikriwahhab\obj\Debug\net8.0-windows\ref\dzikriwahhab.dll
+C:\Users\ASUS\Perkuliahan\Semester II\Pemrograman Desktop\dzikriwahhab\dzikriwahhab\obj\Debug\net8.0-windows\dzikriwahhab.Form2.resources
+C:\Users\ASUS\Perkuliahan\Semester II\Pemrograman Desktop\Praktek Minggu 7 - Quis\dzikriwahhab\bin\Debug\net8.0-windows\dzikriwahhab.exe
+C:\Users\ASUS\Perkuliahan\Semester II\Pemrograman Desktop\Praktek Minggu 7 - Quis\dzikriwahhab\bin\Debug\net8.0-windows\dzikriwahhab.deps.json
+C:\Users\ASUS\Perkuliahan\Semester II\Pemrograman Desktop\Praktek Minggu 7 - Quis\dzikriwahhab\bin\Debug\net8.0-windows\dzikriwahhab.runtimeconfig.json
+C:\Users\ASUS\Perkuliahan\Semester II\Pemrograman Desktop\Praktek Minggu 7 - Quis\dzikriwahhab\bin\Debug\net8.0-windows\dzikriwahhab.dll
+C:\Users\ASUS\Perkuliahan\Semester II\Pemrograman Desktop\Praktek Minggu 7 - Quis\dzikriwahhab\bin\Debug\net8.0-windows\dzikriwahhab.pdb
+C:\Users\ASUS\Perkuliahan\Semester II\Pemrograman Desktop\Praktek Minggu 7 - Quis\dzikriwahhab\obj\Debug\net8.0-windows\dzikriwahhab.Form1.resources
+C:\Users\ASUS\Perkuliahan\Semester II\Pemrograman Desktop\Praktek Minggu 7 - Quis\dzikriwahhab\obj\Debug\net8.0-windows\dzikriwahhab.Form2.resources
+C:\Users\ASUS\Perkuliahan\Semester II\Pemrograman Desktop\Praktek Minggu 7 - Quis\dzikriwahhab\obj\Debug\net8.0-windows\dzikriwahhab.vbproj.GenerateResource.cache
+C:\Users\ASUS\Perkuliahan\Semester II\Pemrograman Desktop\Praktek Minggu 7 - Quis\dzikriwahhab\obj\Debug\net8.0-windows\dzikriwahhab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Perkuliahan\Semester II\Pemrograman Desktop\Praktek Minggu 7 - Quis\dzikriwahhab\obj\Debug\net8.0-windows\dzikriwahhab.AssemblyInfoInputs.cache
+C:\Users\ASUS\Perkuliahan\Semester II\Pemrograman Desktop\Praktek Minggu 7 - Quis\dzikriwahhab\obj\Debug\net8.0-windows\dzikriwahhab.AssemblyInfo.vb
+C:\Users\ASUS\Perkuliahan\Semester II\Pemrograman Desktop\Praktek Minggu 7 - Quis\dzikriwahhab\obj\Debug\net8.0-windows\dzikriwahhab.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\Perkuliahan\Semester II\Pemrograman Desktop\Praktek Minggu 7 - Quis\dzikriwahhab\obj\Debug\net8.0-windows\dzikriwahhab.dll
+C:\Users\ASUS\Perkuliahan\Semester II\Pemrograman Desktop\Praktek Minggu 7 - Quis\dzikriwahhab\obj\Debug\net8.0-windows\refint\dzikriwahhab.dll
+C:\Users\ASUS\Perkuliahan\Semester II\Pemrograman Desktop\Praktek Minggu 7 - Quis\dzikriwahhab\obj\Debug\net8.0-windows\dzikriwahhab.pdb
+C:\Users\ASUS\Perkuliahan\Semester II\Pemrograman Desktop\Praktek Minggu 7 - Quis\dzikriwahhab\obj\Debug\net8.0-windows\dzikriwahhab.genruntimeconfig.cache
+C:\Users\ASUS\Perkuliahan\Semester II\Pemrograman Desktop\Praktek Minggu 7 - Quis\dzikriwahhab\obj\Debug\net8.0-windows\ref\dzikriwahhab.dll

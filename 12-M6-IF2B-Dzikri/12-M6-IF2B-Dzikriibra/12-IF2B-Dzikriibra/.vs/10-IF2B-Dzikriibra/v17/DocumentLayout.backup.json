@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\Praktek Minggu 6\\12-M6-IF2B-Dzikriibra\\12-IF2B-Dzikriibra\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BEA7109-55D0-4FA0-9ADF-D235A501682B}|10-IF2B-Dzikriibra\\10-IF2B-Dzikriibra.vbproj|c:\\users\\asus\\perkuliahan\\semester ii\\pemrograman desktop\\praktek minggu 6\\12-m6-if2b-dzikriibra\\12-if2b-dzikriibra\\10-if2b-dzikriibra\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0BEA7109-55D0-4FA0-9ADF-D235A501682B}|10-IF2B-Dzikriibra\\10-IF2B-Dzikriibra.vbproj|solutionrelative:10-if2b-dzikriibra\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BEA7109-55D0-4FA0-9ADF-D235A501682B}|10-IF2B-Dzikriibra\\10-IF2B-Dzikriibra.vbproj|c:\\users\\asus\\perkuliahan\\semester ii\\pemrograman desktop\\praktek minggu 6\\12-m6-if2b-dzikriibra\\12-if2b-dzikriibra\\10-if2b-dzikriibra\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0BEA7109-55D0-4FA0-9ADF-D235A501682B}|10-IF2B-Dzikriibra\\10-IF2B-Dzikriibra.vbproj|solutionrelative:10-if2b-dzikriibra\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BEA7109-55D0-4FA0-9ADF-D235A501682B}|10-IF2B-Dzikriibra\\10-IF2B-Dzikriibra.vbproj|c:\\users\\asus\\perkuliahan\\semester ii\\pemrograman desktop\\praktek minggu 6\\12-m6-if2b-dzikriibra\\12-if2b-dzikriibra\\10-if2b-dzikriibra\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0BEA7109-55D0-4FA0-9ADF-D235A501682B}|10-IF2B-Dzikriibra\\10-IF2B-Dzikriibra.vbproj|solutionrelative:10-if2b-dzikriibra\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BEA7109-55D0-4FA0-9ADF-D235A501682B}|10-IF2B-Dzikriibra\\10-IF2B-Dzikriibra.vbproj|c:\\users\\asus\\perkuliahan\\semester ii\\pemrograman desktop\\praktek minggu 6\\12-m6-if2b-dzikriibra\\12-if2b-dzikriibra\\10-if2b-dzikriibra\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0BEA7109-55D0-4FA0-9ADF-D235A501682B}|10-IF2B-Dzikriibra\\10-IF2B-Dzikriibra.vbproj|solutionrelative:10-if2b-dzikriibra\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BEA7109-55D0-4FA0-9ADF-D235A501682B}|10-IF2B-Dzikriibra\\10-IF2B-Dzikriibra.vbproj|c:\\users\\asus\\perkuliahan\\semester ii\\pemrograman desktop\\praktek minggu 6\\12-m6-if2b-dzikriibra\\12-if2b-dzikriibra\\10-if2b-dzikriibra\\form9.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0BEA7109-55D0-4FA0-9ADF-D235A501682B}|10-IF2B-Dzikriibra\\10-IF2B-Dzikriibra.vbproj|solutionrelative:10-if2b-dzikriibra\\form9.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BEA7109-55D0-4FA0-9ADF-D235A501682B}|10-IF2B-Dzikriibra\\10-IF2B-Dzikriibra.vbproj|c:\\users\\asus\\perkuliahan\\semester ii\\pemrograman desktop\\praktek minggu 6\\12-m6-if2b-dzikriibra\\12-if2b-dzikriibra\\10-if2b-dzikriibra\\form9.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0BEA7109-55D0-4FA0-9ADF-D235A501682B}|10-IF2B-Dzikriibra\\10-IF2B-Dzikriibra.vbproj|solutionrelative:10-if2b-dzikriibra\\form9.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BEA7109-55D0-4FA0-9ADF-D235A501682B}|10-IF2B-Dzikriibra\\10-IF2B-Dzikriibra.vbproj|c:\\users\\asus\\perkuliahan\\semester ii\\pemrograman desktop\\praktek minggu 6\\12-m6-if2b-dzikriibra\\12-if2b-dzikriibra\\10-if2b-dzikriibra\\form8.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0BEA7109-55D0-4FA0-9ADF-D235A501682B}|10-IF2B-Dzikriibra\\10-IF2B-Dzikriibra.vbproj|solutionrelative:10-if2b-dzikriibra\\form8.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BEA7109-55D0-4FA0-9ADF-D235A501682B}|10-IF2B-Dzikriibra\\10-IF2B-Dzikriibra.vbproj|c:\\users\\asus\\perkuliahan\\semester ii\\pemrograman desktop\\praktek minggu 6\\12-m6-if2b-dzikriibra\\12-if2b-dzikriibra\\10-if2b-dzikriibra\\form8.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0BEA7109-55D0-4FA0-9ADF-D235A501682B}|10-IF2B-Dzikriibra\\10-IF2B-Dzikriibra.vbproj|solutionrelative:10-if2b-dzikriibra\\form8.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BEA7109-55D0-4FA0-9ADF-D235A501682B}|10-IF2B-Dzikriibra\\10-IF2B-Dzikriibra.vbproj|c:\\users\\asus\\perkuliahan\\semester ii\\pemrograman desktop\\praktek minggu 6\\12-m6-if2b-dzikriibra\\12-if2b-dzikriibra\\10-if2b-dzikriibra\\form6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0BEA7109-55D0-4FA0-9ADF-D235A501682B}|10-IF2B-Dzikriibra\\10-IF2B-Dzikriibra.vbproj|solutionrelative:10-if2b-dzikriibra\\form6.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Application.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\Praktek Minggu 6\\12-M6-IF2B-Dzikriibra\\12-IF2B-Dzikriibra\\10-IF2B-Dzikriibra\\My Project\\Application.Designer.vb",
+              "RelativeDocumentMoniker": "10-IF2B-Dzikriibra\\My Project\\Application.Designer.vb",
+              "ToolTip": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\Praktek Minggu 6\\12-M6-IF2B-Dzikriibra\\12-IF2B-Dzikriibra\\10-IF2B-Dzikriibra\\My Project\\Application.Designer.vb",
+              "RelativeToolTip": "10-IF2B-Dzikriibra\\My Project\\Application.Designer.vb",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwB4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-09T09:10:26.143Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\Praktek Minggu 6\\12-M6-IF2B-Dzikriibra\\12-IF2B-Dzikriibra\\10-IF2B-Dzikriibra\\Form1.vb",
+              "RelativeDocumentMoniker": "10-IF2B-Dzikriibra\\Form1.vb",
+              "ToolTip": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\Praktek Minggu 6\\12-M6-IF2B-Dzikriibra\\12-IF2B-Dzikriibra\\10-IF2B-Dzikriibra\\Form1.vb",
+              "RelativeToolTip": "10-IF2B-Dzikriibra\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-11T09:19:11.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\Praktek Minggu 6\\12-M6-IF2B-Dzikriibra\\12-IF2B-Dzikriibra\\10-IF2B-Dzikriibra\\Form2.vb",
+              "RelativeDocumentMoniker": "10-IF2B-Dzikriibra\\Form2.vb",
+              "ToolTip": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\Praktek Minggu 6\\12-M6-IF2B-Dzikriibra\\12-IF2B-Dzikriibra\\10-IF2B-Dzikriibra\\Form2.vb [Design]",
+              "RelativeToolTip": "10-IF2B-Dzikriibra\\Form2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-11T08:38:47.212Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\Praktek Minggu 6\\12-M6-IF2B-Dzikriibra\\12-IF2B-Dzikriibra\\10-IF2B-Dzikriibra\\Form1.vb",
+              "RelativeDocumentMoniker": "10-IF2B-Dzikriibra\\Form1.vb",
+              "ToolTip": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\Praktek Minggu 6\\12-M6-IF2B-Dzikriibra\\12-IF2B-Dzikriibra\\10-IF2B-Dzikriibra\\Form1.vb [Design]",
+              "RelativeToolTip": "10-IF2B-Dzikriibra\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-11T08:38:44.577Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form9.vb",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\Praktek Minggu 6\\12-M6-IF2B-Dzikriibra\\12-IF2B-Dzikriibra\\10-IF2B-Dzikriibra\\Form9.vb",
+              "RelativeDocumentMoniker": "10-IF2B-Dzikriibra\\Form9.vb",
+              "ToolTip": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\Praktek Minggu 6\\12-M6-IF2B-Dzikriibra\\12-IF2B-Dzikriibra\\10-IF2B-Dzikriibra\\Form9.vb",
+              "RelativeToolTip": "10-IF2B-Dzikriibra\\Form9.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA+wAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-09T12:59:25.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form9.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\Praktek Minggu 6\\12-M6-IF2B-Dzikriibra\\12-IF2B-Dzikriibra\\10-IF2B-Dzikriibra\\Form9.vb",
+              "RelativeDocumentMoniker": "10-IF2B-Dzikriibra\\Form9.vb",
+              "ToolTip": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\Praktek Minggu 6\\12-M6-IF2B-Dzikriibra\\12-IF2B-Dzikriibra\\10-IF2B-Dzikriibra\\Form9.vb [Design]",
+              "RelativeToolTip": "10-IF2B-Dzikriibra\\Form9.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-09T12:58:56.948Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form8.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\Praktek Minggu 6\\12-M6-IF2B-Dzikriibra\\12-IF2B-Dzikriibra\\10-IF2B-Dzikriibra\\Form8.vb",
+              "RelativeDocumentMoniker": "10-IF2B-Dzikriibra\\Form8.vb",
+              "ToolTip": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\Praktek Minggu 6\\12-M6-IF2B-Dzikriibra\\12-IF2B-Dzikriibra\\10-IF2B-Dzikriibra\\Form8.vb [Design]",
+              "RelativeToolTip": "10-IF2B-Dzikriibra\\Form8.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-09T12:45:21.767Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form8.vb",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\Praktek Minggu 6\\12-M6-IF2B-Dzikriibra\\12-IF2B-Dzikriibra\\10-IF2B-Dzikriibra\\Form8.vb",
+              "RelativeDocumentMoniker": "10-IF2B-Dzikriibra\\Form8.vb",
+              "ToolTip": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\Praktek Minggu 6\\12-M6-IF2B-Dzikriibra\\12-IF2B-Dzikriibra\\10-IF2B-Dzikriibra\\Form8.vb",
+              "RelativeToolTip": "10-IF2B-Dzikriibra\\Form8.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-09T12:47:05.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form6.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\Praktek Minggu 6\\12-M6-IF2B-Dzikriibra\\12-IF2B-Dzikriibra\\10-IF2B-Dzikriibra\\Form6.vb",
+              "RelativeDocumentMoniker": "10-IF2B-Dzikriibra\\Form6.vb",
+              "ToolTip": "C:\\Users\\ASUS\\Perkuliahan\\Semester II\\Pemrograman Desktop\\Praktek Minggu 6\\12-M6-IF2B-Dzikriibra\\12-IF2B-Dzikriibra\\10-IF2B-Dzikriibra\\Form6.vb [Design]",
+              "RelativeToolTip": "10-IF2B-Dzikriibra\\Form6.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-09T12:24:16.055Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
